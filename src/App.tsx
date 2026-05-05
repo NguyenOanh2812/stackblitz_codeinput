@@ -1,5 +1,4 @@
-import React, { useState, useRef, KeyboardEvent } from 'react';
-
+import { useState, useRef, type KeyboardEvent } from 'react';
 // ==========================================
 // 1. UTILS & KEY HANDLERS
 // ==========================================
